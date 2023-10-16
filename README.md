@@ -1,2 +1,2 @@
 # yes
-[bobshackthathestolefromme.robdeezbob.repl.co]org
+[yes](bobshackthathestolefromme.robdeezbob.repl.co)
